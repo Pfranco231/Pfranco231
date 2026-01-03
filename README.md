@@ -21,7 +21,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **[Vida Natural](https://adi.vidanaturalargentina.com/pedidos/login.php), My Personal Projects**
+- 🔭 I’m currently working on **[Vida Natural](https://vidanaturalargentina.com), My Personal Projects**
 
 - 🌱 I’m currently learning **english and improve my programming skills**
 
